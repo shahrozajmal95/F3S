@@ -1,5 +1,5 @@
-# F3SS
-This repositary is for our research paper that present our model F^3S: Feature-Focused Few-Shot Segmentation via Feature Fusion and CLIP
+# F3S
+This repositary is for our research paper that present our model F3S: Feature-Focused Few-Shot Segmentation via Feature Fusion and CLIP
 Semantic Alignment through Grad-CAM.
 
 
